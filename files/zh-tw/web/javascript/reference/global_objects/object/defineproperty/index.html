@@ -7,8 +7,8 @@ translation_of: Web/JavaScript/Reference/Global_Objects/Object/defineProperty
 
 <p>靜態方法 <code><strong>Object.defineProperty()</strong></code> 會直接對一個物件定義、或是修改現有的屬性。執行後會回傳定義完的物件。</p>
 
-<div class="note">
-<p><strong>注：</strong>這個方法會直接針對 {{jsxref("Object")}} 呼叫建構子（constructor），而不是 <code>Object</code> 型別的實例。</p>
+<div class="notecard note">
+<p><strong>備註：</strong>這個方法會直接針對 {{jsxref("Object")}} 呼叫建構子（constructor），而不是 <code>Object</code> 型別的實例。</p>
 </div>
 
 <div>{{EmbedInteractiveExample("pages/js/object-defineproperty.html")}}</div>
@@ -156,7 +156,7 @@ Object.defineProperty(o, 'conflict', {
 
 <p>如果該屬性已經存在, <code>Object.defineProperty()</code> 將會根據描述符內的值和物件當前的 configuration 來修改屬性。 如果舊的描述符之 <code>configurable</code> 的特徵為 false (屬性為 “non-configurable”), 那除了 <code>writable</code> 之外的特徵都將無法修改。 在這個情況，也不可能在 data 和 accessor 屬性類型中來回切換。</p>
 
-<p>如果有一個屬性是 non-configurable, 那它的 <code>writable</code> 特徵只能被改變為 <font face="consolas, Liberation Mono, courier, monospace"><span style="background-color: rgba(220, 220, 220, 0.5);">false</span></font>.</p>
+<p>如果有一個屬性是 non-configurable, 那它的 <code>writable</code> 特徵只能被改變為 <code>false</code>.</p>
 
 <p>若嘗試改變 non-configurable property attributes，將會丟出一個 {{jsxref("TypeError")}}，除非當前之值與新值相同。</p>
 
@@ -306,30 +306,7 @@ console.log(instance.myname); // this is my name string
 
 <h2 id="規格">規格</h2>
 
-<table class="standard-table">
- <tbody>
-  <tr>
-   <th scope="col">Specification</th>
-   <th scope="col">Status</th>
-   <th scope="col">註記</th>
-  </tr>
-  <tr>
-   <td>{{SpecName('ES5.1', '#sec-15.2.3.6', 'Object.defineProperty')}}</td>
-   <td>{{Spec2('ES5.1')}}</td>
-   <td>Initial definition. Implemented in JavaScript 1.8.5.</td>
-  </tr>
-  <tr>
-   <td>{{SpecName('ES6', '#sec-object.defineproperty', 'Object.defineProperty')}}</td>
-   <td>{{Spec2('ES6')}}</td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td>{{SpecName('ESDraft', '#sec-object.defineproperty', 'Object.defineProperty')}}</td>
-   <td>{{Spec2('ESDraft')}}</td>
-   <td> </td>
-  </tr>
- </tbody>
-</table>
+{{Specifications}}
 
 <h2 id="瀏覽器相容性">瀏覽器相容性</h2>
 
