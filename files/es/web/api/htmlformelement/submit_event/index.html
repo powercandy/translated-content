@@ -1,31 +1,25 @@
 ---
 title: GlobalEventHandlers.onsubmit
-slug: Web/API/GlobalEventHandlers/onsubmit
-tags:
-  - API
-  - HTML DOM
-  - 레퍼런스
-  - 속성
+slug: Web/API/HTMLFormElement/submit_event
 translation_of: Web/API/GlobalEventHandlers/onsubmit
+original_slug: Web/API/GlobalEventHandlers/onsubmit
 ---
 <div>{{ApiRef("HTML DOM")}}</div>
 
-<p> </p>
+<p>Manejador de eventos del evento submit para el objeto window.</p>
 
-<p>현재 창에서 폼을 제출하는 이벤트를 다루는 이벤트 핸들러</p>
-
-<h2 id="문법">문법</h2>
+<h2 id="Sintaxis">Sintaxis</h2>
 
 <pre class="eval">window.onsubmit = <em>funcRef</em>;
 </pre>
 
-<h3 id="매개_변수">매개 변수</h3>
+<h3 id="Parametros">Parametros</h3>
 
 <ul>
- <li><code>funcRef</code> 는 함수를 참조하는 변수이다.</li>
+ <li><code>funcRef</code> es una referencia a una función.</li>
 </ul>
 
-<h2 id="예제">예제</h2>
+<h2 id="Ejemplo">Ejemplo</h2>
 
 <pre class="eval">&lt;html&gt;
 &lt;script&gt;
@@ -48,11 +42,13 @@ function hit() {
 &lt;/html&gt;
 </pre>
 
-<h2 id="알아두기">알아두기</h2>
+<h2 id="Notas">Notas</h2>
 
-<p>제출 이벤트는 사용자가 폼 내부에 있는 제출 버튼(<code>&lt;input type="submit"/&gt;</code>)을 눌렀을 때 발생한다.</p>
+<p>El evento submit se genera cuando el usuario hace click en el boton submit en un formulario (<code>&lt;input type="submit"/&gt;</code>).</p>
 
-<h2 id="명세">명세</h2>
+<p>El evento submit no se genera cuando el usuario llama a la función <code>form.submit()</code> directamente.</p>
+
+<h2 id="Especificaciones">Especificaciones</h2>
 
 <table class="spectable standard-table">
  <tbody>
@@ -68,3 +64,7 @@ function hit() {
   </tr>
  </tbody>
 </table>
+
+<h2 id="Browser_Compatibility">Browser Compatibility</h2>
+
+{{Compat("api.GlobalEventHandlers.onsubmit")}}

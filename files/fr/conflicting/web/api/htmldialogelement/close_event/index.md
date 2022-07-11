@@ -1,6 +1,6 @@
 ---
 title: GlobalEventHandlers.onclose
-slug: Web/API/GlobalEventHandlers/onclose
+slug: conflicting/Web/API/HTMLDialogElement/close_event
 tags:
   - API
   - DOM
@@ -8,6 +8,7 @@ tags:
   - Property
   - Reference
 translation_of: Web/API/GlobalEventHandlers/onclose
+original_slug: Web/API/GlobalEventHandlers/onclose
 ---
 {{ApiRef("HTML DOM")}}
 
