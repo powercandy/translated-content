@@ -415,12 +415,6 @@
       "Rocker"
     ]
   },
-  "Glossary/DHTML": {
-    "modified": "2019-03-23T23:05:14.683Z",
-    "contributors": [
-      "wildsky"
-    ]
-  },
   "Glossary/DNS": {
     "modified": "2019-03-18T21:42:20.975Z",
     "contributors": [
@@ -3648,12 +3642,6 @@
       "MashKao"
     ]
   },
-  "Web/API/GlobalEventHandlers": {
-    "modified": "2019-03-23T22:31:11.882Z",
-    "contributors": [
-      "jackblackevo"
-    ]
-  },
   "Web/API/HTMLCanvasElement": {
     "modified": "2019-03-23T22:48:19.691Z",
     "contributors": [
@@ -4444,18 +4432,6 @@
       "IsaacSchemm"
     ]
   },
-  "Web/API/WindowEventHandlers": {
-    "modified": "2019-03-23T22:30:52.273Z",
-    "contributors": [
-      "jackblackevo"
-    ]
-  },
-  "Web/API/WindowOrWorkerGlobalScope": {
-    "modified": "2020-10-15T22:29:08.795Z",
-    "contributors": [
-      "mfuji09"
-    ]
-  },
   "Web/API/XMLHttpRequest": {
     "modified": "2020-10-15T21:21:13.079Z",
     "contributors": [
@@ -4805,13 +4781,6 @@
     "contributors": [
       "jackblackevo",
       "h140100"
-    ]
-  },
-  "Web/CSS/CSS_Properties_Reference": {
-    "modified": "2020-10-21T10:34:59.711Z",
-    "contributors": [
-      "SvampK",
-      "jackblackevo"
     ]
   },
   "Web/CSS/CSS_Selectors": {
@@ -8279,6 +8248,12 @@
       "BobChao"
     ]
   },
+  "orphaned/Glossary/DHTML": {
+    "modified": "2019-03-23T23:05:14.683Z",
+    "contributors": [
+      "wildsky"
+    ]
+  },
   "orphaned/HTML5_Cross_Browser_Polyfills": {
     "modified": "2019-01-16T13:58:45.342Z",
     "contributors": [
@@ -8412,6 +8387,12 @@
       "jackblackevo"
     ]
   },
+  "orphaned/Web/API/GlobalEventHandlers": {
+    "modified": "2019-03-23T22:31:11.882Z",
+    "contributors": [
+      "jackblackevo"
+    ]
+  },
   "orphaned/Web/API/HTMLOrForeignElement/dataset": {
     "modified": "2019-03-18T21:38:45.005Z",
     "contributors": [
@@ -8459,6 +8440,25 @@
     "modified": "2020-10-15T22:25:38.862Z",
     "contributors": [
       "ianchen0119"
+    ]
+  },
+  "orphaned/Web/API/WindowEventHandlers": {
+    "modified": "2019-03-23T22:30:52.273Z",
+    "contributors": [
+      "jackblackevo"
+    ]
+  },
+  "orphaned/Web/API/WindowOrWorkerGlobalScope": {
+    "modified": "2020-10-15T22:29:08.795Z",
+    "contributors": [
+      "mfuji09"
+    ]
+  },
+  "orphaned/Web/CSS/CSS_Properties_Reference": {
+    "modified": "2020-10-21T10:34:59.711Z",
+    "contributors": [
+      "SvampK",
+      "jackblackevo"
     ]
   },
   "orphaned/Web/CSS/border-image/border-image": {
