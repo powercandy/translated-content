@@ -1364,6 +1364,7 @@
 /zh-CN/docs/Web/API/CanvasRenderingContext2D/clearHitRegions	/zh-CN/docs/orphaned/Web/API/CanvasRenderingContext2D/clearHitRegions
 /zh-CN/docs/Web/API/CanvasRenderingContext2D/currentTransform	/zh-CN/docs/conflicting/Web/API/CanvasRenderingContext2D
 /zh-CN/docs/Web/API/CanvasRenderingContext2D/drawWidgetAsOnScreen	/zh-CN/docs/orphaned/Web/API/CanvasRenderingContext2D/drawWidgetAsOnScreen
+/zh-CN/docs/Web/API/CanvasRenderingContext2D/drawWindow	/zh-CN/docs/conflicting/Web/API/CanvasRenderingContext2D/drawImage
 /zh-CN/docs/Web/API/CanvasRenderingContext2D/removeHitRegion	/zh-CN/docs/orphaned/Web/API/CanvasRenderingContext2D/removeHitRegion
 /zh-CN/docs/Web/API/Canvas_API/A_basic_ray-caster	/zh-CN/docs/orphaned/Web/API/Canvas_API/A_basic_ray-caster
 /zh-CN/docs/Web/API/Canvas_API/Tutorial/Hit_regions_and_accessibility	/zh-CN/docs/orphaned/Web/API/Canvas_API/Tutorial/Hit_regions_and_accessibility
