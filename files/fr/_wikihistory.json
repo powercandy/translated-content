@@ -350,10 +350,6 @@
     "modified": "2019-03-23T22:44:37.220Z",
     "contributors": ["loella16", "Bat"]
   },
-  "Glossary/Bootstrap": {
-    "modified": "2020-10-08T09:01:42.946Z",
-    "contributors": ["Voulto"]
-  },
   "Glossary/Breadcrumb": {
     "modified": "2020-09-25T06:01:58.166Z",
     "contributors": ["Voulto"]
@@ -28773,6 +28769,10 @@
   "conflicting/Web/XSLT": {
     "modified": "2019-06-17T11:21:18.591Z",
     "contributors": ["Arzak656"]
+  },
+  "orphaned/Glossary/Bootstrap": {
+    "modified": "2020-10-08T09:01:42.946Z",
+    "contributors": ["Voulto"]
   },
   "orphaned/Glossary/DHTML": {
     "modified": "2019-03-24T00:02:32.004Z",
