@@ -10228,10 +10228,6 @@
     "modified": "2019-03-23T22:03:28.345Z",
     "contributors": ["EmiliaMiyuki"]
   },
-  "Web/API/HTMLMediaElement/onerror": {
-    "modified": "2020-10-15T22:20:09.423Z",
-    "contributors": ["HaukWong"]
-  },
   "Web/API/HTMLMediaElement/pause": {
     "modified": "2020-10-15T22:29:04.236Z",
     "contributors": ["xialeistudio", "crazymxm"]
@@ -33839,6 +33835,10 @@
   "conflicting/Web/API/HTMLMediaElement/ended_event": {
     "modified": "2020-10-15T22:18:22.501Z",
     "contributors": ["qiuguomuhai"]
+  },
+  "conflicting/Web/API/HTMLMediaElement/error_event": {
+    "modified": "2020-10-15T22:20:09.423Z",
+    "contributors": ["HaukWong"]
   },
   "conflicting/Web/API/HTMLMediaElement/loadeddata_event": {
     "modified": "2020-10-15T22:16:07.855Z",
