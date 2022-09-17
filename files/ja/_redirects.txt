@@ -3242,10 +3242,13 @@
 /ja/docs/Web/API/Document/pointerdown_event	/ja/docs/conflicting/Web/API/Element/pointerdown_event_52e6c78bd90532a79bc3c2c80af5ed9b
 /ja/docs/Web/API/Document/pointerenter_event	/ja/docs/conflicting/Web/API/Element/pointerenter_event_ad5da77babb9ac0091c516678bb19bbf
 /ja/docs/Web/API/Document/pointerleave_event	/ja/docs/conflicting/Web/API/Element/pointerleave_event_a6b2b9230f66dfcc5c4077d72aae90a5
+/ja/docs/Web/API/Document/pointerlockchange_event	/ja/docs/Web/API/Element/pointerlockchange_event
+/ja/docs/Web/API/Document/pointerlockerror_event	/ja/docs/Web/API/Element/pointerlockerror_event
 /ja/docs/Web/API/Document/pointermove_event	/ja/docs/conflicting/Web/API/Element/pointermove_event_9457d86bddab983aa3cc1076fec12753
 /ja/docs/Web/API/Document/pointerout_event	/ja/docs/conflicting/Web/API/Element/pointerout_event_4cb3c25da5a30e7a04ae3725cb9b1991
 /ja/docs/Web/API/Document/pointerover_event	/ja/docs/conflicting/Web/API/Element/pointerover_event_2519f2155f45326d2db4ff9c96c95df6
 /ja/docs/Web/API/Document/pointerup_event	/ja/docs/conflicting/Web/API/Element/pointerup_event_98312379d0c2a93cf838fff9bbde5f1e
+/ja/docs/Web/API/Document/selectstart_event	/ja/docs/Web/API/Node/selectstart_event
 /ja/docs/Web/API/Document/tooltipNode	/ja/docs/orphaned/Web/API/Document/tooltipNode
 /ja/docs/Web/API/Document/touchcancel_event	/ja/docs/conflicting/Web/API/Element/touchcancel_event_f7cffa2c07fe56531902fc9aa527b106
 /ja/docs/Web/API/Document/touchend_event	/ja/docs/conflicting/Web/API/Element/touchend_event_71f5252738871a6c3433a3d8cb25c645

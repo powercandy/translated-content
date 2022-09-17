@@ -1407,7 +1407,9 @@
 /zh-CN/docs/Web/API/Document/ononline	/zh-CN/docs/Web/API/Window/online_event
 /zh-CN/docs/Web/API/Document/onreadystatechange	/en-US/docs/Web/API/Document/readystatechange_event
 /zh-CN/docs/Web/API/Document/onvisibilitychange	/zh-CN/docs/conflicting/Web/API/Document/visibilitychange_event
+/zh-CN/docs/Web/API/Document/pointerlockchange_event	/zh-CN/docs/Web/API/Element/pointerlockchange_event
 /zh-CN/docs/Web/API/Document/rouchmove_event	/zh-CN/docs/conflicting/Web/API/Element/touchmove_event
+/zh-CN/docs/Web/API/Document/selectstart_event	/zh-CN/docs/Web/API/Node/selectstart_event
 /zh-CN/docs/Web/API/Document/tooltipNode	/zh-CN/docs/orphaned/Web/API/Document/tooltipNode
 /zh-CN/docs/Web/API/Document/touchcancel_event	/zh-CN/docs/conflicting/Web/API/Element/touchcancel_event_f7cffa2c07fe56531902fc9aa527b106
 /zh-CN/docs/Web/API/Document/touchend_event	/zh-CN/docs/Web/API/Element/touchend_event
@@ -2213,7 +2215,7 @@
 /zh-CN/docs/Web/Events/scroll	/zh-CN/docs/Web/API/Document/scroll_event
 /zh-CN/docs/Web/Events/select	/zh-CN/docs/Web/API/HTMLInputElement/select_event
 /zh-CN/docs/Web/Events/selectionchange	/zh-CN/docs/Web/API/Document/selectionchange_event
-/zh-CN/docs/Web/Events/selectstart	/zh-CN/docs/Web/API/Document/selectstart_event
+/zh-CN/docs/Web/Events/selectstart	/zh-CN/docs/Web/API/Node/selectstart_event
 /zh-CN/docs/Web/Events/show	/zh-CN/docs/Web/API/Element/show_event
 /zh-CN/docs/Web/Events/storage	/zh-CN/docs/Web/API/Window/storage_event
 /zh-CN/docs/Web/Events/timeout	/zh-CN/docs/Web/API/XMLHttpRequest/timeout_event
