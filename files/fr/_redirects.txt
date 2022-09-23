@@ -5015,6 +5015,7 @@
 /fr/docs/Web/JavaScript/Reference/Global_Objects/PluralRules	/fr/docs/Web/JavaScript/Reference/Global_Objects/Intl/PluralRules
 /fr/docs/Web/JavaScript/Reference/Global_Objects/RegExp/toSource	/fr/docs/conflicting/Web/JavaScript/Reference/Global_Objects/RegExp/toString
 /fr/docs/Web/JavaScript/Reference/Global_Objects/RelativeTimeFormat	/fr/docs/Web/JavaScript/Reference/Global_Objects/Intl/RelativeTimeFormat
+/fr/docs/Web/JavaScript/Reference/Global_Objects/SharedArrayBuffer/Planned_changes	/fr/docs/conflicting/Web/JavaScript/Reference/Global_Objects/SharedArrayBuffer
 /fr/docs/Web/JavaScript/Reference/Global_Objects/String/prototype	/fr/docs/Web/JavaScript/Reference/Global_Objects/String
 /fr/docs/Web/JavaScript/Reference/Global_Objects/String/toSource	/fr/docs/conflicting/Web/JavaScript/Reference/Global_Objects/String/toString
 /fr/docs/Web/JavaScript/Reference/Global_Objects/Symbol/toSource	/fr/docs/conflicting/Web/JavaScript/Reference/Global_Objects/Symbol/toString
@@ -6366,7 +6367,6 @@
 /fr/docs/conflicting/Web/JavaScript/Reference/Global_Objects/ReferenceError	/fr/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError
 /fr/docs/conflicting/Web/JavaScript/Reference/Global_Objects/RegExp	/fr/docs/Web/JavaScript/Reference/Global_Objects/RegExp
 /fr/docs/conflicting/Web/JavaScript/Reference/Global_Objects/Set	/fr/docs/Web/JavaScript/Reference/Global_Objects/Set
-/fr/docs/conflicting/Web/JavaScript/Reference/Global_Objects/SharedArrayBuffer	/fr/docs/Web/JavaScript/Reference/Global_Objects/SharedArrayBuffer
 /fr/docs/conflicting/Web/JavaScript/Reference/Global_Objects/SyntaxError	/fr/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError
 /fr/docs/conflicting/Web/JavaScript/Reference/Global_Objects/TypeError	/fr/docs/Web/JavaScript/Reference/Global_Objects/TypeError
 /fr/docs/conflicting/Web/JavaScript/Reference/Global_Objects/TypedArray	/fr/docs/Web/JavaScript/Reference/Global_Objects/TypedArray
