@@ -20836,10 +20836,6 @@
       "Potappo"
     ]
   },
-  "Web/Guide/HTML/Editable_content": {
-    "modified": "2019-05-13T11:13:31.486Z",
-    "contributors": ["mfuji09", "yyss", "ethertank"]
-  },
   "Web/Guide/HTML/XHTML": {
     "modified": "2020-05-04T01:56:10.076Z",
     "contributors": ["mfuji09"]
@@ -31838,6 +31834,10 @@
   "conflicting/Web/HTML": {
     "modified": "2020-09-19T11:13:50.506Z",
     "contributors": ["mfuji09", "Marsf"]
+  },
+  "conflicting/Web/HTML/Global_attributes/contenteditable": {
+    "modified": "2019-05-13T11:13:31.486Z",
+    "contributors": ["mfuji09", "yyss", "ethertank"]
   },
   "conflicting/Web/HTTP": {
     "modified": "2019-03-18T21:35:45.067Z",
