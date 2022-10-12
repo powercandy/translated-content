@@ -4222,6 +4222,7 @@
 /fr/docs/Web/CSS/:host-context()	/fr/docs/orphaned/Web/CSS/:host-context()
 /fr/docs/Web/CSS/:matches	/fr/docs/Web/CSS/:is
 /fr/docs/Web/CSS/:visited_et_la_vie_privée	/fr/docs/Web/CSS/Privacy_and_the_:visited_selector
+/fr/docs/Web/CSS/@font-face/font-variant	/fr/docs/conflicting/Web/CSS/@font-face
 /fr/docs/Web/CSS/@media/scan	/fr/docs/orphaned/Web/CSS/@media/scan
 /fr/docs/Web/CSS/@page/bleed	/fr/docs/orphaned/Web/CSS/@page/bleed
 /fr/docs/Web/CSS/@page/marks	/fr/docs/orphaned/Web/CSS/@page/marks
