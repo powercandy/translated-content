@@ -26420,10 +26420,6 @@
       "Munto"
     ]
   },
-  "Web/JavaScript/Reference/Strict_mode/Transitioning_to_strict_mode": {
-    "modified": "2020-03-12T19:39:22.597Z",
-    "contributors": ["SphinxKnight", "Laurent_Lyaudet", "Bpruneau", "fscholz"]
-  },
   "Web/JavaScript/Reference/Template_literals": {
     "modified": "2020-10-15T21:31:15.226Z",
     "contributors": [
@@ -28717,6 +28713,10 @@
   "conflicting/Web/JavaScript/Reference/Global_Objects/Symbol/toString": {
     "modified": "2020-10-15T21:29:09.350Z",
     "contributors": ["SphinxKnight", "teoli"]
+  },
+  "conflicting/Web/JavaScript/Reference/Strict_mode": {
+    "modified": "2020-03-12T19:39:22.597Z",
+    "contributors": ["SphinxKnight", "Laurent_Lyaudet", "Bpruneau", "fscholz"]
   },
   "conflicting/Web/MathML": {
     "modified": "2019-01-16T22:05:50.107Z",

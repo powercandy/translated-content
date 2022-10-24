@@ -29372,17 +29372,6 @@
       "nonki777"
     ]
   },
-  "Web/JavaScript/Reference/Strict_mode/Transitioning_to_strict_mode": {
-    "modified": "2020-04-10T09:42:32.564Z",
-    "contributors": [
-      "mfuji09",
-      "Uemmra3",
-      "nabetaro",
-      "SCENEE",
-      "ambi",
-      "shide55"
-    ]
-  },
   "Web/JavaScript/Reference/Template_literals": {
     "modified": "2020-10-15T21:33:08.783Z",
     "contributors": [
@@ -32016,6 +32005,17 @@
   "conflicting/Web/JavaScript/Reference/Global_Objects/Symbol/toString": {
     "modified": "2020-11-22T12:30:02.654Z",
     "contributors": ["mfuji09", "shide55"]
+  },
+  "conflicting/Web/JavaScript/Reference/Strict_mode": {
+    "modified": "2020-04-10T09:42:32.564Z",
+    "contributors": [
+      "mfuji09",
+      "Uemmra3",
+      "nabetaro",
+      "SCENEE",
+      "ambi",
+      "shide55"
+    ]
   },
   "conflicting/Web/Manifest": {
     "modified": "2020-10-15T22:29:07.713Z",
