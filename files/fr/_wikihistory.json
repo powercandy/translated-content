@@ -15137,19 +15137,6 @@
       "FredB"
     ]
   },
-  "Web/CSS/@viewport": {
-    "modified": "2020-10-15T21:21:36.008Z",
-    "contributors": [
-      "SphinxKnight",
-      "fscholz",
-      "J.DMB",
-      "louuis",
-      "teoli",
-      "Igro",
-      "FredB",
-      "Delapouite"
-    ]
-  },
   "Web/CSS/Adjacent_sibling_combinator": {
     "modified": "2020-10-15T21:46:19.453Z",
     "contributors": ["SphinxKnight", "builgui", "ffoodd"]
@@ -15361,10 +15348,6 @@
       "Kyodev",
       "Fredchat"
     ]
-  },
-  "Web/CSS/CSS_Device_Adaptation": {
-    "modified": "2020-10-15T21:44:13.646Z",
-    "contributors": ["SphinxKnight", "xdelatour"]
   },
   "Web/CSS/CSS_Display": {
     "modified": "2020-10-15T21:44:13.926Z",
@@ -26019,7 +26002,7 @@
     "modified": "2020-10-15T21:27:45.620Z",
     "contributors": ["SphinxKnight", "thomasgodart", "teoli"]
   },
-  "Web/JavaScript/Reference/Operators/Nullish_coalescing_operator": {
+  "Web/JavaScript/Reference/Operators/Nullish_coalescing": {
     "modified": "2020-11-11T08:53:19.207Z",
     "contributors": ["JNa0", "SphinxKnight", "nkokla"]
   },
@@ -28468,6 +28451,19 @@
     "modified": "2019-03-23T23:17:50.755Z",
     "contributors": ["hmore", "Goofy", "Fredchat"]
   },
+  "conflicting/Web/CSS": {
+    "modified": "2020-10-15T21:21:36.008Z",
+    "contributors": [
+      "SphinxKnight",
+      "fscholz",
+      "J.DMB",
+      "louuis",
+      "teoli",
+      "Igro",
+      "FredB",
+      "Delapouite"
+    ]
+  },
   "conflicting/Web/CSS/CSS_Flexible_Box_Layout/Backwards_Compatibility_of_Flexbox": {
     "modified": "2019-04-06T12:38:31.267Z",
     "contributors": ["SphinxKnight"]
@@ -28561,6 +28557,10 @@
       "tregagnon",
       "ThePrisoner"
     ]
+  },
+  "conflicting/Web/CSS_7fc1a1afe4642afd225ebf1b3d6227a7": {
+    "modified": "2020-10-15T21:44:13.646Z",
+    "contributors": ["SphinxKnight", "xdelatour"]
   },
   "conflicting/Web/CSS_c2c099599c0a58c69d1390033045f244": {
     "modified": "2019-04-06T13:47:45.843Z",
