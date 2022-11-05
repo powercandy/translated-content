@@ -20859,10 +20859,6 @@
     "modified": "2019-04-16T23:59:54.980Z",
     "contributors": ["Uemmra3", "Wind1808"]
   },
-  "Web/Guide/Mobile/Separate_sites": {
-    "modified": "2019-04-17T00:04:34.176Z",
-    "contributors": ["Uemmra3", "Wind1808"]
-  },
   "Web/Guide/Parsing_and_serializing_XML": {
     "modified": "2020-09-14T07:46:26.734Z",
     "contributors": ["Marsf", "mfuji09", "silverskyvicto", "kmaglione", "Shoot"]
@@ -32032,6 +32028,10 @@
   "conflicting/Web/MathML": {
     "modified": "2019-01-16T21:55:31.944Z",
     "contributors": ["Marsf"]
+  },
+  "conflicting/Web/Progressive_web_apps": {
+    "modified": "2019-04-17T00:04:34.176Z",
+    "contributors": ["Uemmra3", "Wind1808"]
   },
   "conflicting/Web/SVG": {
     "modified": "2019-01-16T21:55:52.943Z",
