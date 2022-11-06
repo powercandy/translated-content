@@ -13544,10 +13544,6 @@
       "Fredchat"
     ]
   },
-  "Web/API/XSLTProcessor/XSL_Transformations_in_Mozilla_FAQ": {
-    "modified": "2019-01-16T16:04:45.409Z",
-    "contributors": ["VincentN", "Mgjbot", "Kyodev", "Fredchat", "BenoitL"]
-  },
   "Web/API/atob": {
     "modified": "2019-09-24T09:32:03.862Z",
     "contributors": [
@@ -28418,6 +28414,10 @@
   "conflicting/Web/API/XSLTProcessor": {
     "modified": "2019-03-23T23:44:00.502Z",
     "contributors": ["SphinxKnight", "wbamberg", "VincentN", "Fredchat"]
+  },
+  "conflicting/Web/API/XSLTProcessor_4a6a04067c5d63f7b384716c3adb7de0": {
+    "modified": "2019-01-16T16:04:45.409Z",
+    "contributors": ["VincentN", "Mgjbot", "Kyodev", "Fredchat", "BenoitL"]
   },
   "conflicting/Web/API/btoa": {
     "modified": "2019-03-18T21:41:36.649Z",
