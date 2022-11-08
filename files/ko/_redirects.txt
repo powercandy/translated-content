@@ -365,12 +365,13 @@
 /ko/docs/MDN/Guidelines/Does_this_belong_on_MDN	/ko/docs/MDN/Writing_guidelines/What_we_write
 /ko/docs/MDN/Guidelines/Style_guide	/ko/docs/MDN/Writing_guidelines/Writing_style_guide
 /ko/docs/MDN/Guidelines/Writing_style_guide	/ko/docs/MDN/Writing_guidelines/Writing_style_guide
-/ko/docs/MDN/Kuma	/ko/docs/MDN/Yari
+/ko/docs/MDN/Kuma	/ko/docs/orphaned/MDN/Yari
 /ko/docs/MDN/Structures	/ko/docs/conflicting/MDN/Writing_guidelines/Page_structures
 /ko/docs/MDN/Structures/API_references/API_reference_sidebars	/ko/docs/MDN/Writing_guidelines/Howto/Write_an_API_reference/Sidebars
 /ko/docs/MDN/Structures/Compatibility_tables	/ko/docs/MDN/Writing_guidelines/Page_structures
 /ko/docs/MDN/Structures/Macros	/ko/docs/conflicting/MDN/Writing_guidelines/Page_structures_978c99f4f82eae196d51ce675e5181c7
 /ko/docs/MDN/Structures/Macros/Commonly-used_macros	/ko/docs/MDN/Writing_guidelines/Page_structures/Macros/Commonly_used_macros
+/ko/docs/MDN/Yari	/ko/docs/orphaned/MDN/Yari
 /ko/docs/MDN/피드백	/ko/docs/MDN/Community
 /ko/docs/MDN_at_ten	/ko/docs/MDN/At_ten
 /ko/docs/MathML	/ko/docs/Web/MathML

@@ -1480,17 +1480,6 @@
       "wildsky"
     ]
   },
-  "MDN/Yari": {
-    "modified": "2019-09-06T03:30:44.825Z",
-    "contributors": [
-      "SphinxKnight",
-      "wbamberg",
-      "iigmir",
-      "SecondSpirit",
-      "a8040282",
-      "Sheppy"
-    ]
-  },
   "Mozilla": {
     "modified": "2019-03-23T23:33:56.932Z",
     "contributors": ["iigmir", "ethertank"]
@@ -5495,6 +5484,17 @@
   "orphaned/MDN/Contribute/Howto/Set_the_summary_for_a_page": {
     "modified": "2019-03-23T22:02:13.738Z",
     "contributors": ["wbamberg", "Astrid-GitHub", "RSyehann"]
+  },
+  "orphaned/MDN/Yari": {
+    "modified": "2019-09-06T03:30:44.825Z",
+    "contributors": [
+      "SphinxKnight",
+      "wbamberg",
+      "iigmir",
+      "SecondSpirit",
+      "a8040282",
+      "Sheppy"
+    ]
   },
   "orphaned/Mozilla/Firefox/Releases/4/Firefox_4_開發者新功能概覽": {
     "modified": "2019-04-23T03:28:52.095Z",
