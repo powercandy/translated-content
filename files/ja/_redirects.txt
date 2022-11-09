@@ -2767,10 +2767,10 @@
 /ja/docs/MDN/Contribute/Structures/Syntax_sections	/ja/docs/conflicting/MDN/Writing_guidelines/Page_structures_bc39394e4b9b43957d7f149e90441e51
 /ja/docs/MDN/Contribute/Structures/マクロ	/ja/docs/conflicting/MDN/Writing_guidelines/Page_structures_978c99f4f82eae196d51ce675e5181c7
 /ja/docs/MDN/Contribute/Tools	/ja/docs/MDN/Tools
-/ja/docs/MDN/Contribute/Tools/Document_parameters	/ja/docs/MDN/Tools/Unsupported_GET_API
+/ja/docs/MDN/Contribute/Tools/Document_parameters	/ja/docs/conflicting/MDN_097c5cfc342607a29b105ed97a10a079
 /ja/docs/MDN/Contribute/Tools/KumaScript	/ja/docs/MDN/Tools/KumaScript
 /ja/docs/MDN/Contribute/Tools/KumaScript/Troubleshooting	/ja/docs/MDN/Tools/KumaScript/Troubleshooting
-/ja/docs/MDN/Contribute/Tools/Sample_server	/ja/docs/MDN/Tools/Sample_server
+/ja/docs/MDN/Contribute/Tools/Sample_server	/ja/docs/conflicting/MDN
 /ja/docs/MDN/Contribute/Where_is_everything	/ja/docs/MDN/Community/Contributing/Our_repositories
 /ja/docs/MDN/Feedback	/ja/docs/MDN/Community
 /ja/docs/MDN/Getting_started	/ja/docs/MDN/Community/Contributing/Getting_started
@@ -2805,7 +2805,9 @@
 /ja/docs/MDN/Structures/Quicklinks	/ja/docs/conflicting/MDN/Writing_guidelines/Page_structures_beab16e4cec4868f7c665da1b19be9a5
 /ja/docs/MDN/Structures/Specification_tables	/ja/docs/conflicting/MDN/Writing_guidelines/Page_structures_5ea871ce36d498595dfc8b64cac16ee9
 /ja/docs/MDN/Structures/Syntax_sections	/ja/docs/conflicting/MDN/Writing_guidelines/Page_structures_bc39394e4b9b43957d7f149e90441e51
-/ja/docs/MDN/Tools/Document_parameters	/ja/docs/MDN/Tools/Unsupported_GET_API
+/ja/docs/MDN/Tools/Document_parameters	/ja/docs/conflicting/MDN_097c5cfc342607a29b105ed97a10a079
+/ja/docs/MDN/Tools/Sample_server	/ja/docs/conflicting/MDN
+/ja/docs/MDN/Tools/Unsupported_GET_API	/ja/docs/conflicting/MDN_097c5cfc342607a29b105ed97a10a079
 /ja/docs/MDN/User_guide	/ja/docs/MDN/Tools
 /ja/docs/MDN/User_guide/Linking_to_MDN	/ja/docs/orphaned/MDN/About/Linking_to_MDN
 /ja/docs/MDN/Yari	/ja/docs/orphaned/MDN/Yari
