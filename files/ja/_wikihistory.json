@@ -10068,10 +10068,6 @@
     "modified": "2019-03-24T00:06:21.211Z",
     "contributors": ["mfuji09", "dlwe", "Piro", "drry"]
   },
-  "Web/API/HTML_Drag_and_Drop_API/Multiple_items": {
-    "modified": "2019-03-24T00:06:18.208Z",
-    "contributors": ["Piro", "drry"]
-  },
   "Web/API/HTML_Drag_and_Drop_API/Recommended_drag_types": {
     "modified": "2020-10-07T03:14:28.263Z",
     "contributors": ["mpcjazz", "Piro"]
@@ -32211,6 +32207,10 @@
   "orphaned/Web/API/GlobalEventHandlers/oncancel": {
     "modified": "2020-10-15T22:34:40.533Z",
     "contributors": ["genzai"]
+  },
+  "orphaned/Web/API/HTML_Drag_and_Drop_API/Multiple_items": {
+    "modified": "2019-03-24T00:06:18.208Z",
+    "contributors": ["Piro", "drry"]
   },
   "orphaned/Web/API/IDBEnvironment": {
     "modified": "2020-10-15T21:40:56.510Z",
