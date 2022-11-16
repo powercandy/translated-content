@@ -1117,7 +1117,7 @@
 /ja/docs/DOM/DOMError	/ja/docs/Web/API/DOMError
 /ja/docs/DOM/DOMException	/ja/docs/Web/API/DOMException
 /ja/docs/DOM/DOMString	/ja/docs/conflicting/Web/JavaScript/Reference/Global_Objects/String_6fa58bba0570d663099f0ae7ae8883ab
-/ja/docs/DOM/DOMTimeStamp	/ja/docs/Web/API/DOMTimeStamp
+/ja/docs/DOM/DOMTimeStamp	/ja/docs/Glossary/Unix_time
 /ja/docs/DOM/DOM_Reference	/ja/docs/Web/API/Document_Object_Model
 /ja/docs/DOM/DOM_Reference/Events	/ja/docs/orphaned/Web/API/Document_Object_Model/Events
 /ja/docs/DOM/DOM_Reference/Examples	/ja/docs/Web/API/Document_Object_Model/Examples
@@ -3213,6 +3213,7 @@
 /ja/docs/Web/API/Coordinates	/ja/docs/Web/API/GeolocationCoordinates
 /ja/docs/Web/API/DOMString	/ja/docs/conflicting/Web/JavaScript/Reference/Global_Objects/String_6fa58bba0570d663099f0ae7ae8883ab
 /ja/docs/Web/API/DOMString/Binary	/ja/docs/conflicting/Web/API/btoa
+/ja/docs/Web/API/DOMTimeStamp	/ja/docs/Glossary/Unix_time
 /ja/docs/Web/API/DeviceAcceleration	/ja/docs/Web/API/DeviceMotionEventAcceleration
 /ja/docs/Web/API/Document.domConfig	/ja/docs/Web/API/Document
 /ja/docs/Web/API/Document/animationcancel_event	/ja/docs/Web/API/Element/animationcancel_event
