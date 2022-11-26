@@ -19657,10 +19657,6 @@
     "modified": "2019-03-23T23:08:38.035Z",
     "contributors": ["SphinxKnight", "demangejeremy", "shing0608"]
   },
-  "Web/Guide/API/WebRTC/Peer-to-peer_communications_with_WebRTC": {
-    "modified": "2019-03-23T23:24:59.049Z",
-    "contributors": ["AbrahamT"]
-  },
   "Web/Guide/Audio_and_video_delivery": {
     "modified": "2019-03-23T22:00:15.299Z",
     "contributors": ["chrisdavidmills", "a-mt"]
@@ -28334,6 +28330,10 @@
   "conflicting/Web/API/WebRTC_API": {
     "modified": "2019-03-23T23:07:44.484Z",
     "contributors": ["wordsbybird"]
+  },
+  "conflicting/Web/API/WebRTC_API_d4ab0b68af0f5b77c5ddcff383d9b072": {
+    "modified": "2019-03-23T23:24:59.049Z",
+    "contributors": ["AbrahamT"]
   },
   "conflicting/Web/API/Web_Workers_API/Using_web_workers": {
     "modified": "2019-03-23T23:02:10.788Z",
