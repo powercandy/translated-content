@@ -343,6 +343,7 @@
 /ko/docs/MDN/Contribute/Guidelines/Code_guidelines	/ko/docs/conflicting/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide
 /ko/docs/MDN/Contribute/Guidelines/Code_guidelines/CSS	/ko/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide/CSS
 /ko/docs/MDN/Contribute/Guidelines/Code_guidelines/Code_guidelines	/ko/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide
+/ko/docs/MDN/Contribute/Howto	/ko/docs/conflicting/MDN/Contribute
 /ko/docs/MDN/Contribute/Howto/Convert_code_samples_to_be_live	/ko/docs/MDN/Writing_guidelines/Page_structures/Live_samples
 /ko/docs/MDN/Contribute/Howto/Create_and_edit_pages	/ko/docs/MDN/Writing_guidelines/Howto/Creating_moving_deleting
 /ko/docs/MDN/Contribute/Howto/Report_a_problem	/ko/docs/MDN/Community/Issues

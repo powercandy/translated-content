@@ -2732,6 +2732,7 @@
 /ja/docs/MDN/Contribute/Guidelines/Video	/ja/docs/MDN/Writing_guidelines/Howto/Images_media
 /ja/docs/MDN/Contribute/Guidelines/Writing_style_guide	/ja/docs/conflicting/MDN/Writing_guidelines/Writing_style_guide
 /ja/docs/MDN/Contribute/Help_beginners	/ja/docs/MDN/Community/Learn_forum
+/ja/docs/MDN/Contribute/Howto	/ja/docs/conflicting/MDN/Contribute_0bcab4c99ca5038c2d477c13fb21153d
 /ja/docs/MDN/Contribute/Howto/Add_or_update_browser_compatibility_data	/ja/docs/orphaned/MDN/Contribute/Howto/Add_or_update_browser_compatibility_data
 /ja/docs/MDN/Contribute/Howto/Convert_code_samples_to_be_live	/ja/docs/MDN/Writing_guidelines/Page_structures/Live_samples
 /ja/docs/MDN/Contribute/Howto/Create_an_interactive_exercise_to_help_learning_the_web	/ja/docs/conflicting/MDN/Writing_guidelines/Page_structures/Live_samples
