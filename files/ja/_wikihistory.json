@@ -25141,10 +25141,6 @@
     "modified": "2020-10-25T02:36:41.280Z",
     "contributors": ["mfuji09", "segayuu", "Marsf", "shide55"]
   },
-  "Web/JavaScript/Reference/Global_Objects/Date/toGMTString": {
-    "modified": "2020-10-25T02:23:05.410Z",
-    "contributors": ["mfuji09", "YujiSoftware", "Marsf", "shide55"]
-  },
   "Web/JavaScript/Reference/Global_Objects/Date/toISOString": {
     "modified": "2020-10-25T02:16:58.464Z",
     "contributors": ["mfuji09", "segayuu", "Marsf", "shide55"]
@@ -31870,6 +31866,10 @@
   "conflicting/Web/JavaScript/Reference/Global_Objects/Date/toString": {
     "modified": "2020-10-30T10:18:22.506Z",
     "contributors": ["mfuji09", "teoli", "sutara79", "Marsf", "shide55"]
+  },
+  "conflicting/Web/JavaScript/Reference/Global_Objects/Date/toUTCString": {
+    "modified": "2020-10-25T02:23:05.410Z",
+    "contributors": ["mfuji09", "YujiSoftware", "Marsf", "shide55"]
   },
   "conflicting/Web/JavaScript/Reference/Global_Objects/Error/toString": {
     "modified": "2020-10-30T10:49:32.277Z",

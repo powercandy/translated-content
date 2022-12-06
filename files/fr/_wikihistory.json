@@ -23688,10 +23688,6 @@
     "modified": "2020-10-15T21:27:17.686Z",
     "contributors": ["SphinxKnight", "edspeedy", "teoli", "tregagnon"]
   },
-  "Web/JavaScript/Reference/Global_Objects/Date/toGMTString": {
-    "modified": "2020-10-15T21:27:18.821Z",
-    "contributors": ["SphinxKnight", "teoli", "tregagnon"]
-  },
   "Web/JavaScript/Reference/Global_Objects/Date/toISOString": {
     "modified": "2020-10-15T21:27:16.901Z",
     "contributors": ["SphinxKnight", "teoli", "tregagnon"]
@@ -28658,6 +28654,10 @@
   },
   "conflicting/Web/JavaScript/Reference/Global_Objects/Date/toString": {
     "modified": "2020-10-15T21:27:17.217Z",
+    "contributors": ["SphinxKnight", "teoli", "tregagnon"]
+  },
+  "conflicting/Web/JavaScript/Reference/Global_Objects/Date/toUTCString": {
+    "modified": "2020-10-15T21:27:18.821Z",
     "contributors": ["SphinxKnight", "teoli", "tregagnon"]
   },
   "conflicting/Web/JavaScript/Reference/Global_Objects/Function/toString": {
