@@ -8440,10 +8440,6 @@
       "BenoitL"
     ]
   },
-  "Web/API/Document/origin": {
-    "modified": "2019-03-18T21:39:14.796Z",
-    "contributors": ["loella16"]
-  },
   "Web/API/Document/preferredStyleSheetSet": {
     "modified": "2019-03-18T21:17:09.649Z",
     "contributors": ["wbamberg", "loella16", "redorff"]
@@ -28336,6 +28332,10 @@
   },
   "conflicting/Web/API/btoa": {
     "modified": "2019-03-18T21:41:36.649Z",
+    "contributors": ["loella16"]
+  },
+  "conflicting/Web/API/origin": {
+    "modified": "2019-03-18T21:39:14.796Z",
     "contributors": ["loella16"]
   },
   "conflicting/Web/Accessibility": {

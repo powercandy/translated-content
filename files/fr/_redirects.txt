@@ -3716,6 +3716,7 @@
 /fr/docs/Web/API/Document/onfullscreenchange	/fr/docs/conflicting/Web/API/Document/fullscreenchange_event
 /fr/docs/Web/API/Document/onoffline	/fr/docs/conflicting/Web/API/Window/offline_event
 /fr/docs/Web/API/Document/ononline	/fr/docs/conflicting/Web/API/Window/online_event
+/fr/docs/Web/API/Document/origin	/fr/docs/conflicting/Web/API/origin
 /fr/docs/Web/API/Document/popupNode	/fr/docs/orphaned/Web/API/Document/popupNode
 /fr/docs/Web/API/Document/tooltipNode	/fr/docs/orphaned/Web/API/Document/tooltipNode
 /fr/docs/Web/API/Document/touchend_event	/fr/docs/Web/API/Element/touchend_event
