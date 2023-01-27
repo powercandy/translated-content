@@ -22303,10 +22303,6 @@
     "modified": "2020-10-15T22:08:00.031Z",
     "contributors": ["mfuji09"]
   },
-  "Web/HTTP/Headers/Content-Security-Policy/require-sri-for": {
-    "modified": "2020-10-15T22:33:25.391Z",
-    "contributors": ["mfuji09"]
-  },
   "Web/HTTP/Headers/Content-Security-Policy/sandbox": {
     "modified": "2020-10-15T22:21:06.473Z",
     "contributors": ["acid-chicken", "mfuji09"]
@@ -31663,6 +31659,10 @@
   },
   "conflicting/Web/HTTP": {
     "modified": "2019-03-18T21:35:45.067Z",
+    "contributors": ["mfuji09"]
+  },
+  "conflicting/Web/HTTP/Headers/Content-Security-Policy": {
+    "modified": "2020-10-15T22:33:25.391Z",
     "contributors": ["mfuji09"]
   },
   "conflicting/Web/HTTP/Headers/Feature-Policy/xr-spatial-tracking": {
